@@ -1,4 +1,4 @@
-# Protótipo Sensor para Estacionamento em Garagem
+# Sensor para Estacionamento Sonoro
 
 ## Descrição
 Este projeto é um protótipo de sensor para estacionamento em garagem, utilizando um Arduino e um sensor ultrassônico para medir a distância de um carro em relação a um obstáculo. Caso o carro esteja muito próximo, um LED vermelho é aceso e um buzzer é acionado. Se o espaço estiver livre, um LED verde permanece aceso.
