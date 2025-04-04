@@ -1,4 +1,4 @@
-# Projeto 4 - Sensor Ultrassônico com LEDs
+# Sensor Ultrassônico com LEDs
 
 Acende diferentes LEDs de acordo com a distância detectada pelo sensor ultrassônico.
 
