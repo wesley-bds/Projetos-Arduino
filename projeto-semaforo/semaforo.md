@@ -1,4 +1,4 @@
-Semáforo Sequencial
+# Semáforo Sequencial
 
 Simula a lógica de um semáforo comum com LEDs que acendem em sequência: vermelho, amarelo e verde.
 

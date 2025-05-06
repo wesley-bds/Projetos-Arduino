@@ -1,4 +1,4 @@
-# Projeto 6 - RGB Aleatório
+# RGB Aleatório
 
 Muda aleatoriamente as cores de um LED RGB.
 

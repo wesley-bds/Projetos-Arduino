@@ -1,4 +1,4 @@
-# Projeto 5 - Controle de Motor com Botão
+# Controle de Motor com Botão
 
 Liga ou desliga um motor ao pressionar um botão.
 

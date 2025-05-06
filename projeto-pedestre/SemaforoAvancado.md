@@ -1,4 +1,4 @@
-# Projeto 2 - Semáforo com Pedestre
+# Semáforo com Pedestre
 
 Simula um semáforo com botões para pedestres.
 
