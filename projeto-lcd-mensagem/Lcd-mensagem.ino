@@ -20,19 +20,34 @@ void loop()
   lcd.clear();
   
 //Posiciona o cursor na coluna 3
-  lcd.setCursor(2, 0);
+  lcd.setCursor(6, 0);
   
 //Envia o texto entre aspas para o LCD.
-  lcd.print("SAO PAULO FC");
+  lcd.print("SAO");
   
 //Envia o texto entre aspas para a segunda linha
-  lcd.setCursor(2, 1);
+  lcd.setCursor(4, 1);
   
-  lcd.print("MAIOR CAMPEAO");
+  lcd.print("PAULO FC");
   
-  delay(5000);
+  delay(1000);
   
+
+//Rolagem para a esquerda
+for (int posicao = 0; posicao < 3; posicao ++)
+{
+  lcd.scrollDisplayLeft();
+  delay(300);
 }
+
+//Rolagem para direita
+for (int posicao = 0; posicao < 6; posicao ++)
+{
+	lcd.scrollDisplayRight();
+  	delay(300);
+}
+}
+
 
 
 
